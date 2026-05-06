@@ -1,0 +1,17 @@
+{
+  "name": "asr-1-2",
+  "version-string": "1.2.0",
+  "dependencies": [
+    "abseil",
+    "dawn",
+    "glm",
+    {
+      "name": "directx-dxc",
+      "platform": "windows"
+    },
+    "sdl3",
+    "stb",
+    "vulkan-headers",
+    "vulkan-utility-libraries"
+  ]
+}
